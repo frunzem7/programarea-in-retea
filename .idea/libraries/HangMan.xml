@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HangMan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java/HangMan/HangMan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
